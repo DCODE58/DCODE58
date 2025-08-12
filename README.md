@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/DCODE%20Logo%20with%20Spade%20Symbol.png" width="200" alt="DCODE Logo"/>
+  <img src="https://raw.githubusercontent.com/DCODE58/DCODE58/main/DCODE%20Logo%20with%20Spade%20Symbol.png" width="200" alt="DCODE Logo"/>
 </p>
 
 <h1 align="center">Hey 👋, I'm Dave</h1>
@@ -57,15 +57,15 @@ Infinite-scroll React app visualizing history with smooth animations.
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DCODE58&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCODE58&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
 
 ## 📈 Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DCODE58&theme=react-dark&hide_border=true" />
 </p>
 
 ---
