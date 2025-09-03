@@ -34,6 +34,11 @@
 **<img src="https://img.icons8.com/doodle/24/000000/company.png" width="24" height="24" alt="company"> Founder** of **[Dave's Code Devs](https://davescard.vercel.app)**.  
 **<img src="https://img.icons8.com/doodle/24/000000/world-map.png" width="24" height="24" alt="location"> Based in Kenya** — building projects for the world.  
 
+<!-- GitHub Trophy Case -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DCODE58&theme=radical&no-frame=true&column=7" alt="DCODE58 trophies" />
+</p>
+
 ---
 
 ## <img src="https://img.icons8.com/doodle/32/000000/toolbox.png" width="32" height="32" alt="tools"> Tech Arsenal  
@@ -58,6 +63,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
+### **Skills Progress**
+![React](https://img.shields.io/badge/React-90%25-61DAFB?logo=react&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-80%25-339933?logo=node.js&logoColor=white&style=flat-square)
+![Material UI](https://img.shields.io/badge/Material%20UI-75%25-007FFF?logo=mui&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-70%25-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+
 ---
 
 ## <img src="https://img.icons8.com/doodle/32/000000/star.png" width="32" height="32" alt="star"> Featured Projects  
@@ -79,11 +91,21 @@ Infinite-scroll React app visualizing history with smooth animations.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCODE58&layout=compact&theme=radical" height="165"/>
 </p>
 
+<!-- GitHub streak stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DCODE58&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## <img src="https://img.icons8.com/doodle/32/000000/activity-history.png" width="32" height="32" alt="activity"> Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DCODE58&theme=react-dark&hide_border=true" />
+</p>
+
+<!-- Snake animation -->
+<p align="center">
+  <img src="https://github.com/DCODE58/DCODE58/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -96,6 +118,15 @@ Infinite-scroll React app visualizing history with smooth animations.
   <a href="https://wa.me/254787041514"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://davescard.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Dave's_Card-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
+
+<!-- Additional metrics -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=DCODE58&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/DCODE58?color=blueviolet&style=flat-square)
+![Repositories](https://img.shields.io/badge/Repositories-20+-blueviolet?style=flat-square)
+
+</div>
 
 ---
 
