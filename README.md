@@ -1,28 +1,23 @@
-<!-- Neon Gradient Header -->
-<div align="center" style="background: linear-gradient(90deg, #0f0c29, #302b63, #24243e); padding: 30px; border-radius: 20px;">
-  
-  <!-- Glitch Neon Banner -->
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=500&color=00FFFF&background=00000000&center=true&vCenter=true&width=900&height=80&lines=DCODE58;Cyberpunk+Developer;Futuristic+Creations" alt="Glitch Banner"/>
-  </p>
+<!-- Glitch Neon Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=500&color=00FFFF&background=00000000&center=true&vCenter=true&width=900&height=80&lines=DCODE58;Cyberpunk+Developer;Futuristic+Creations" alt="Glitch Banner"/>
+</p>
 
-  <!-- Logo -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/DCODE58/DCODE58/main/DCODE%20Logo%20with%20Spade%20Symbol.png" width="200" alt="DCODE Logo"/>
-  </p>
+<!-- Logo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DCODE58/DCODE58/main/DCODE%20Logo%20with%20Spade%20Symbol.png" width="200" alt="DCODE Logo"/>
+</p>
 
-  <h1 align="center" style="color:#00FFFF;">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/00ffff/external-futuristic-robotics-flaticons-lineal-color-flat-icons.png" width="40"/> 
-    Hey, I'm Dave 
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/ff007f/external-cyberpunk-futuristic-flaticons-lineal-color-flat-icons.png" width="40"/>
-  </h1>
+<h1 align="center">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/00ffff/external-futuristic-robotics-flaticons-lineal-color-flat-icons.png" width="40"/> 
+  Hey, I'm Dave 
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/ff007f/external-cyberpunk-futuristic-flaticons-lineal-color-flat-icons.png" width="40"/>
+</h1>
 
-  <h3 align="center" style="color:#FF007F;">
-    <img src="https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/24/8A2BE2/external-rocket-space-tanah-basah-basic-outline-tanah-basah.png" width="24"/> 
-    Full-Stack Developer | Creative Technologist | UX Enthusiast
-  </h3>
-
-</div>
+<h3 align="center">
+  <img src="https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/24/8A2BE2/external-rocket-space-tanah-basah-basic-outline-tanah-basah.png" width="24"/> 
+  Full-Stack Developer | Creative Technologist | UX Enthusiast
+</h3>
 
 <!-- Typing SVG -->
 <p align="center">
