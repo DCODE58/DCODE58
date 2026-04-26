@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- CAPSULE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DCODE%20DEV&fontSize=80&color=0:00FFFF,50:0D1117,100:FF007F&fontColor=ffffff&stroke=00FFFF&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20UX%20Architect&descSize=18&descAlignY=75&descColor=aaaaaa" width="100%"/>
+
 
 <!-- LOGO -->
 <br/>
