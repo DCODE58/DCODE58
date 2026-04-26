@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- CAPSULE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DCODE%20DEV&fontSize=80&color=0:00FFFF,50:8A2BE2,100:FF007F&fontColor=ffffff&stroke=00FFFF&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20UX%20Architect&descSize=18&descAlignY=75&descColor=cccccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DCODE%20DEV&fontSize=80&color=0:00FFFF,50:0D1117,100:FF007F&fontColor=ffffff&stroke=00FFFF&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20UX%20Architect&descSize=18&descAlignY=75&descColor=aaaaaa" width="100%"/>
+
+<!-- LOGO -->
+<br/>
+<img src="https://i.postimg.cc/25DFhJ93/1000343187-removebg-preview.png" width="140" alt="DCODE Logo"/>
 
 </div>
 
@@ -86,7 +90,7 @@ const dcodedev = {
 ### ◈ STYLING & UI
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material--3-8A2BE2?style=for-the-badge&logo=material-design&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material--3-111111?style=for-the-badge&logo=material-design&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -113,7 +117,7 @@ const dcodedev = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DCODE58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF007F&text_color=FFFFFF&ring_color=8A2BE2&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DCODE58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF007F&text_color=FFFFFF&ring_color=00FFFF&count_private=true" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCODE58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8" height="180"/>
 
@@ -121,13 +125,13 @@ const dcodedev = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DCODE58&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=FF007F&currStreakLabel=8A2BE2&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=DCODE58&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=FF007F&currStreakLabel=00FFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DCODE58&bg_color=0D1117&color=00FFFF&line=8A2BE2&point=FF007F&area=true&area_color=8A2BE220&hide_border=true&radius=8" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DCODE58&bg_color=0D1117&color=00FFFF&line=FF007F&point=00FFFF&area=true&area_color=FF007F20&hide_border=true&radius=8" width="95%"/>
 
 </div>
 
@@ -155,7 +159,7 @@ const dcodedev = {
 [![Email](https://img.shields.io/badge/📧_Email-dcodedevs@gmail.com-00FFFF?style=for-the-badge&logoColor=black)](mailto:dcodedevs@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254787041514)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@dave__flakko-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dave_flakko)
-[![Call](https://img.shields.io/badge/📞_Call-+254_768_372_532-8A2BE2?style=for-the-badge&logo=google-voice&logoColor=white)](tel:+254768372532)
+[![Call](https://img.shields.io/badge/📞_Call-+254_768_372_532-111111?style=for-the-badge&logo=google-voice&logoColor=white)](tel:+254768372532)
 
 </div>
 
@@ -164,6 +168,6 @@ const dcodedev = {
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,50:8A2BE2,100:00FFFF&height=120&section=footer&text=DCODE%20DEV%20%C2%B7%202026&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,50:0D1117,100:00FFFF&height=120&section=footer&text=DCODE%20DEV%20%C2%B7%202026&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 
 </div>
