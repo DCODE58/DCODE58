@@ -156,8 +156,6 @@ const dcodedev = {
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dcodedevs.vercel.app-FF007F?style=for-the-badge&logoColor=white)](https://dcodedevs.vercel.app)
 [![Email](https://img.shields.io/badge/📧_Email-dcodedevs@gmail.com-00FFFF?style=for-the-badge&logoColor=black)](mailto:dcodedevs@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254787041514)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-@dave__flakko-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dave_flakko)
 [![Call](https://img.shields.io/badge/📞_Call-+254_768_372_532-111111?style=for-the-badge&logo=google-voice&logoColor=white)](tel:+254768372532)
 
 </div>
