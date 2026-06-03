@@ -111,30 +111,36 @@ const dcodedev = {
 </div>
 
 ---
-
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DCODE58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF007F&text_color=FFFFFF&ring_color=00FFFF&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCODE58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8" height="180"/>
-
-</div>
+## 🔥 STREAK
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DCODE58&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=FF007F&currStreakLabel=00FFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0D1117,100:0D1117&height=2&section=header" width="100%"/>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" style="padding: 0 8px;">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DCODE58&theme=transparent&hide_border=true&background=0D1117&ring=00FFFF&fire=FF007F&currStreakLabel=00FFFF&sideLabels=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&stroke=00FFFF20&border=00FFFF20" width="420"/>
+
+</td>
+<td align="center" style="padding: 0 8px;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DCODE58&show_icons=false&hide_border=true&bg_color=0D1117&title_color=FF007F&text_color=888888&include_all_commits=true&count_private=true&hide=stars&hide_title=false&custom_title=COMMIT+RECORD&line_height=28" width="280"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+![](https://img.shields.io/badge/LONGEST_STREAK-tracked_on_github-00FFFF?style=flat-square&labelColor=0D1117&color=00FFFF20)
+&nbsp;
+![](https://img.shields.io/badge/CURRENT_STREAK-keep_pushing-FF007F?style=flat-square&labelColor=0D1117&color=FF007F20)
+&nbsp;
+![](https://img.shields.io/badge/TOTAL_CONTRIBUTIONS-growing_daily-00FF88?style=flat-square&labelColor=0D1117&color=00FF8820)
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DCODE58&bg_color=0D1117&color=00FFFF&line=FF007F&point=00FFFF&area=true&area_color=FF007F20&hide_border=true&radius=8" width="95%"/>
-
-</div>
-
----
 
 ## 🏆 GITHUB TROPHIES
 
