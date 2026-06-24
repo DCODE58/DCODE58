@@ -158,23 +158,6 @@ Accessibility & WCAG
 
 ---
 
-## ∷ STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DCODE58&theme=transparent&hide_border=true&background=0D1117&ring=00FFFF&fire=FF007F&currStreakLabel=00FFFF&sideLabels=555555&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=444444&stroke=00FFFF15" width="65%"/>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/CONSISTENCY-IS_THE_EDGE-0D1117?style=flat-square&labelColor=0D1117&color=00FFFF)
-&nbsp;&nbsp;
-![](https://img.shields.io/badge/EVERY_COMMIT-COUNTS-0D1117?style=flat-square&labelColor=0D1117&color=FF007F)
-
-</div>
-
-<br/>
-
----
 
 ## ∷ ACTIVITY
 
