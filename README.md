@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <img src="https://i.postimg.cc/25DFhJ93/1000343187-removebg-preview.png" width="120" alt="DCODE Logo"/>
@@ -165,6 +166,10 @@ Accessibility & WCAG
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DCODE58&bg_color=0D1117&color=00FFFF&line=FF007F&point=FFFFFF&area=true&area_color=FF007F15&hide_border=true&radius=4&custom_title=CONTRIBUTION+GRAPH" width="95%"/>
 
+<br/>
+
+<img src="https://gitlyy.vercel.app/api/contribution?username=DCODE58&hide_border=true" width="95%" alt="GitHub contribution graph"/>
+
 </div>
 
 <br/>
@@ -210,3 +215,4 @@ Accessibility & WCAG
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,50:0D1117,100:00FFFF&height=120&section=footer&text=DCODE+DEV+·+2026&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 
 </div>
+```
