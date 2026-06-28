@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://i.postimg.cc/25DFhJ93/1000343187-removebg-preview.png" width="120" alt="DCODE Logo"/>
