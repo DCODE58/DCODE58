@@ -170,6 +170,10 @@ Accessibility & WCAG
 
 <img src="https://gitlyy.vercel.app/api/contribution?username=DCODE58&hide_border=true" width="95%" alt="GitHub contribution graph"/>
 
+<br/>
+
+<img src="https://gitlyy.vercel.app/api/music?title=Smoking%20On&artist=Wiz%20Khalifa%20and%20Snoop%20Dogg&player=90s" width="400" alt="Now Playing - Smoking On"/>
+
 </div>
 
 <br/>
